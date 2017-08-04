@@ -1,6 +1,6 @@
 # Microsoft Office Documents to plain text
 
-This is a PHP class to convert Microsoft office documents in txt (plain text). You can convert all office documents
+This is a PHP class to convert Microsoft office documents in txt (plain text). You can convert all office documents:
   - Word
   - Excel
   - PowerPoint
